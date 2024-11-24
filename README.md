@@ -28,3 +28,7 @@ currently_learning: ["Python, Django, PostgresQL, Flask"]
 2024 Goals: ["Create 5+ projects in Typescript and Golang]
 hobbies: ["NFL (Cowboys), NBA (Nets), Futsal, Tennis, LOL (Sylas, Yone, Akali)"]
 ```
+
+** Some tools I have Used and Learned
+<img height="50" src="https://cdn1.iconfinder.com/data/icons/akar-vol-2/24/vscode-fill-128.png"></img>
+<img height="50" src="[https://cdn1.iconfinder.com/data/icons/akar-vol-2/24/vscode-fill-128.png](https://cdn1.iconfinder.com/data/icons/ionicons-fill-vol-2/512/logo-javascript-1024.png)"></img>
