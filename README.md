@@ -32,4 +32,4 @@ hobbies: ["NFL (Cowboys), NBA (Nets), Futsal, Tennis, LOL (Sylas, Yone, Akali)"]
 ### Some tools and technologies I have learned
 
 <img height="50" src="https://cdn1.iconfinder.com/data/icons/akar-vol-2/24/vscode-fill-128.png"></img>
-<img height="50" src="[https://cdn1.iconfinder.com/data/icons/akar-vol-2/24/vscode-fill-128.png](https://cdn1.iconfinder.com/data/icons/ionicons-fill-vol-2/512/logo-javascript-1024.png)"></img>
+<img height="50" src="https://cdn1.iconfinder.com/data/icons/ionicons-fill-vol-2/512/logo-javascript-1024.png"></img>
