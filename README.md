@@ -8,20 +8,20 @@
 name: William Bryant
 located_in: Melbourne
 education: [
-"Bachelor of Chemical Engineering",
-"Bachelor of Commerce",
-"Full-stack Software Engineering"
+  "Bachelor of Chemical Engineering",
+  "Bachelor of Commerce",
+  "Full-stack Software Engineering"
 ]
 
 fields_of_interest: [
-"Web Development",
-"Data Science"
+  "Web Development",
+  "Data Science"
 ]
 
 technical_background: [
-"General Assembly Graduate",
-"R&D Consultant",
-"Intern - Fonterra"
+  "General Assembly Graduate",
+  "R&D Consultant",
+  "Intern - Fonterra"
 ]
 
 currently_learning: ["Python, Django, PostgresQL, Flask"]
