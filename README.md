@@ -33,5 +33,5 @@ hobbies: ["NFL (Cowboys), NBA (Nets), Futsal, Tennis, LOL (Sylas, Yone, Akali)"]
 
 <img height="50" src="https://cdn1.iconfinder.com/data/icons/akar-vol-2/24/vscode-fill-128.png"></img>
 <img height="50" src="https://cdn1.iconfinder.com/data/icons/ionicons-fill-vol-2/512/logo-javascript-1024.png"></img>
-<img height="50" src="https://cdn1.iconfinder.com/data/icons/ionicons-fill-vol-2/512/logo-javascript-1024.png"></img>
-<img height="50" src="https://cdn1.iconfinder.com/data/icons/ionicons-fill-vol-2/512/logo-javascript-1024.png"></img>
+<img height="50" src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react-1024.png"></img>
+<img height="50" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-1024.png"></img>
