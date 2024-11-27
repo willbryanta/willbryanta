@@ -44,5 +44,8 @@ hobbies: ["NFL (Cowboys), NBA (Nets), Futsal, Tennis, LOL (Sylas, Yone, Akali)"]
 <img height="50" src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react-1024.png"></img>
 <img height="50" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-1024.png"></img>
 <img height="50" src="https://cdn2.iconfinder.com/data/icons/boxicons-logos/24/bxl-django-1024.png"></img>
+<img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-512.png"></img>
+<img height="50" src="https://simpleicons.org/icons/flask.svg"></img>
+
 
 
