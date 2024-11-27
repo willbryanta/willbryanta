@@ -1,6 +1,7 @@
-<div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hi%20there!&fontSize=60)
 
+<div align="center">
 ## Full-stack SWE
 
 
@@ -9,6 +10,7 @@
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2RheGZlY2VmeDZqZzYwcjR6dTM1aWtoNzh6NjlnZ3p5YTlyOG1ubCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.webp"></img>
 
+<div align="left">
 ```yaml
 name: William Bryant
 located_in: Melbourne
@@ -33,6 +35,7 @@ currently_learning: ["Python, Django, PostgresQL, Flask"]
 2024 Goals: ["Create 5+ projects in Typescript and Golang]
 hobbies: ["NFL (Cowboys), NBA (Nets), Futsal, Tennis, LOL (Sylas, Yone, Akali)"]
 ```
+</div>
 
 ### Some tools and technologies I have learnt
 
