@@ -32,7 +32,7 @@ technical_background: [
   "Intern - Fonterra"
 ]
 
-currently_learning: ["Python, Django, PostgresQL, Flask"]
+currently_learning: ["TypeScript", "Go", "AWS Solutions Architect"]
 2024 Goals: ["Create 5+ projects in Typescript and Golang]
 hobbies: ["NFL (Cowboys), NBA (Nets), Futsal, Tennis, LOL (Sylas, Yone, Akali)"]
 ```
