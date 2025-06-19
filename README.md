@@ -23,7 +23,7 @@ education: [
 
 fields_of_interest: [
   "Web Development",
-  "Data Science"
+  "Cloud, DevOps, CI/CD"
 ]
 
 technical_background: [
