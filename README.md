@@ -45,6 +45,13 @@ hobbies: ["NFL (Cowboys), NBA (Nets), Futsal, Tennis, LOL (Sylas, Yone, Akali)"]
 <img height="50" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-1024.png"></img>
 <img height="50" src="https://cdn2.iconfinder.com/data/icons/boxicons-logos/24/bxl-django-1024.png"></img>
 <img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-512.png"></img>
+<img height="50" src="https://cdn3.iconfinder.com/data/icons/teenyicons-outline-vol-3/15/typescript-1024.png"></img>
+<img height="50" src="https://cdn1.iconfinder.com/data/icons/akar-vol-1/24/nextjs-fill-1024.png"></img>
+<img height="50" src="https://cdn3.iconfinder.com/data/icons/font-awesome-brands/640/golang-1024.png"></img>
+<img height="50" src="https://cdn3.iconfinder.com/data/icons/teenyicons-outline-vol-3/15/tailwind-1024.png"></img>
+<img height="50" src="https://cdn1.iconfinder.com/data/icons/ionicons-fill-vol-2/512/logo-docker-1024.png"></img>
+<img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/postgresql-1024.png"></img>
+
 
 
 
