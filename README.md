@@ -39,18 +39,18 @@ hobbies: ["NFL (Cowboys), NBA (Nets), Futsal, Tennis, LOL (Sylas, Yone, Akali)"]
 
 ### Some tools and technologies I have learnt
 
-<img height="50" src="https://cdn1.iconfinder.com/data/icons/akar-vol-2/24/vscode-fill-128.png"></img>
-<img height="50" src="https://cdn1.iconfinder.com/data/icons/ionicons-fill-vol-2/512/logo-javascript-1024.png"></img>
-<img height="50" src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react-1024.png"></img>
-<img height="50" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-1024.png"></img>
-<img height="50" src="https://cdn2.iconfinder.com/data/icons/boxicons-logos/24/bxl-django-1024.png"></img>
-<img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-512.png"></img>
-<img height="50" src="https://cdn3.iconfinder.com/data/icons/teenyicons-outline-vol-3/15/typescript-1024.png"></img>
-<img height="50" src="https://cdn1.iconfinder.com/data/icons/akar-vol-1/24/nextjs-fill-1024.png"></img>
-<img height="50" src="https://cdn3.iconfinder.com/data/icons/font-awesome-brands/640/golang-1024.png"></img>
-<img height="50" src="https://cdn3.iconfinder.com/data/icons/teenyicons-outline-vol-3/15/tailwind-1024.png"></img>
-<img height="50" src="https://cdn1.iconfinder.com/data/icons/ionicons-fill-vol-2/512/logo-docker-1024.png"></img>
-<img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/postgresql-1024.png"></img>
+<a href="https://code.visualstudio.com/" target="_blank"><img height="50" src="https://cdn1.iconfinder.com/data/icons/akar-vol-2/24/vscode-fill-128.png" alt="VS Code"></a>
+<a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://cdn1.iconfinder.com/data/icons/ionicons-fill-vol-2/512/logo-javascript-1024.png" alt="JavaScript"></a>
+<a href="https://react.dev/" target="_blank"><img height="50" src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react-1024.png" alt="React"></a>
+<a href="https://www.python.org/" target="_blank"><img height="50" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-1024.png" alt="Python"></a>
+<a href="https://www.djangoproject.com/" target="_blank"><img height="50" src="https://cdn2.iconfinder.com/data/icons/boxicons-logos/24/bxl-django-1024.png" alt="Django"></a>
+<a href="https://www.mongodb.com/" target="_blank"><img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-512.png" alt="MongoDB"></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img height="50" src="https://cdn3.iconfinder.com/data/icons/teenyicons-outline-vol-3/15/typescript-1024.png" alt="TypeScript"></a>
+<a href="https://nextjs.org/" target="_blank"><img height="50" src="https://cdn1.iconfinder.com/data/icons/akar-vol-1/24/nextjs-fill-1024.png" alt="Next.js"></a>
+<a href="https://go.dev/" target="_blank"><img height="50" src="https://cdn3.iconfinder.com/data/icons/font-awesome-brands/640/golang-1024.png" alt="Go"></a>
+<a href="https://tailwindcss.com/" target="_blank"><img height="50" src="https://cdn3.iconfinder.com/data/icons/teenyicons-outline-vol-3/15/tailwind-1024.png" alt="Tailwind CSS"></a>
+<a href="https://www.docker.com/" target="_blank"><img height="50" src="https://cdn1.iconfinder.com/data/icons/ionicons-fill-vol-2/512/logo-docker-1024.png" alt="Docker"></a>
+<a href="https://www.postgresql.org/" target="_blank"><img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/postgresql-1024.png" alt="PostgreSQL"></a>
 
 
 
