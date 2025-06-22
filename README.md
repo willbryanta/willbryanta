@@ -6,10 +6,6 @@
 
 <a href="https://www.linkedin.com/in/william-bryant-al/" target="_blank"><img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-1024.png" alt="VS Code"></a>
 
-
-<img height="50" src=""></img>
-
-
 <div align="center">
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2RheGZlY2VmeDZqZzYwcjR6dTM1aWtoNzh6NjlnZ3p5YTlyOG1ubCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.webp"></img>
 </div>
