@@ -4,8 +4,10 @@
 
 ## Full-stack SWE
 
+<a href="https://www.linkedin.com/in/william-bryant-al/" target="_blank"><img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-1024.png" alt="VS Code"></a>
 
-<img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-1024.png"></img>
+
+<img height="50" src=""></img>
 
 
 <div align="center">
