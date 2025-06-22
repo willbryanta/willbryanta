@@ -26,7 +26,7 @@ fields_of_interest: [
 
 technical_background: [
   "General Assembly Graduate",
-  "R&D Consultant",
+  "R&D Consultant (PwC)",
   "Intern - Fonterra"
 ]
 
